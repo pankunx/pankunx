@@ -99,5 +99,5 @@
   
   **⭐ From [user](https://github.com/user) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *"Flutter makes everything beautiful!! 🦋"*
 </div>
